@@ -1,0 +1,17 @@
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\OtoMessage.exe
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\OtoMessage.deps.json
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\OtoMessage.runtimeconfig.json
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\OtoMessage.dll
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\OtoMessage.pdb
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.Form1.resources
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.csproj.GenerateResource.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.AssemblyInfoInputs.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.AssemblyInfo.cs
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.dll
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\refint\OtoMessage.dll
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.pdb
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\OtoMessage.genruntimeconfig.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\ref\OtoMessage.dll

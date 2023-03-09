@@ -1,0 +1,17 @@
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\yapistir.exe
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\yapistir.deps.json
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\yapistir.runtimeconfig.json
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\yapistir.dll
+C:\Users\oztur\source\repos\yapistir\yapistir\bin\Debug\net6.0-windows\yapistir.pdb
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.Form1.resources
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.csproj.GenerateResource.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.AssemblyInfoInputs.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.AssemblyInfo.cs
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.dll
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\refint\yapistir.dll
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.pdb
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\yapistir.genruntimeconfig.cache
+C:\Users\oztur\source\repos\yapistir\yapistir\obj\Debug\net6.0-windows\ref\yapistir.dll

@@ -1,0 +1,5 @@
+C:\Users\oztur\OneDrive\Masaüstü\Publish\OtoMessage.exe
+C:\Users\oztur\OneDrive\Masaüstü\Publish\OtoMessage.dll
+C:\Users\oztur\OneDrive\Masaüstü\Publish\OtoMessage.deps.json
+C:\Users\oztur\OneDrive\Masaüstü\Publish\OtoMessage.runtimeconfig.json
+C:\Users\oztur\OneDrive\Masaüstü\Publish\OtoMessage.pdb
